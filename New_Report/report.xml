@@ -4575,7 +4575,7 @@
 				<Property key="isAutoLabel">true</Property>
 				<Property key="customRangeInterval">true</Property>
 			</EditorProperties>
-			<Title auto="false"><P class="styleForTitle_paragraph4"><Span>Response Time (min)</Span></P></Title>
+			<Title auto="false"><P class="styleForTitle_paragraph4"><Span>Deployed Team Locations</Span></P></Title>
 			<Conditions>
 				<Condition ref="rg4887" attrMap="RANGES"/>
 			</Conditions>
@@ -4619,6 +4619,9 @@
 		<Text name="ve5031" label="Text 2 (1) (2) (2)" selectionDisabled="true" applyDynamicBrushes="no">
 			<P class="paragraph1"><Span class="span1"><Span class="span2">Latest Reading Time:</Span></Span></P>
 			<P class="paragraph2"><Span class="span3"><Span class="span4">01/02/2024, 3:35:00 AM</Span></Span></P>
+                        <P></P>
+                        <P class="paragraph1"><Span class="span1"><Span class="span2">Next Validation Time:</Span></Span></P>
+			<P class="paragraph2"><Span class="span3"><Span class="span4">01/02/2024, 3:45:00 AM</Span></Span></P>
 		</Text>
 		<Image scaleType="scale" file="ve5034.png" name="ve5034" label="Image 19" selectionDisabled="true"/>
 		<Image scaleType="scale" file="ve5035.png" name="ve5035" label="Image 19 (1)" selectionDisabled="true"/>
@@ -4654,17 +4657,15 @@
 			</EditorProperties>
 		</VisualContainer>
 		<Text name="ve5567" label="Text 5" selectionDisabled="true" applyDynamicBrushes="no">
-			<P format="h2"><Span class="span1">AI Generated Summary:</Span><Span> </Span></P>
+			<P format="h2"><Span class="span1">Emergency Response Deployment</Span><Span> </Span></P>
 			<P></P>
-			<P><Span class="span2"><Span class="span3">- Number of Critical Flood Alerts: 3 alerts have been reported across Madinat Al Riyad.</Span></Span></P>
+			<P><Span class="span2"><Span class="span3">- Abu Dhabi Police: Managing traffic control and safety checkpoints near Al Haffar and Al Faya, led by Major Khalid Al Ameen.</Span></Span></P>
 			<P></P>
-			<P><Span class="span4"><Span class="span5">- High-Severity Alert Locations: Dhaharat Al Teeb, Al Faya North, and Al Haffar .</Span></Span></P>
+			<P><Span class="span6"><Span class="span7">- NCEMA: Overseeing overall flood response coordination and resource allocation for rapid intervention, led by Dr. Mansoor Al Ameri.</Span></Span></P>
 			<P></P>
-			<P><Span class="span6"><Span class="span7">- Rainfall and Water Levels: Surpassed 18% of average levels, increasing the probability of flash floods in nearby areas.</Span></Span></P>
+			<P><Span class="span8"><Span class="span9">- Abu Dhabi Civil Defense: Conducting on-site rescue operations and water pumping initiatives to mitigate rising flood levels, led by Lt. Col. Omar Al Rashed.</Span></Span></P>
 			<P></P>
-			<P><Span class="span8"><Span class="span9">- Emergency Response Deployment: Teams are active at 12 locations, maintaining an 87% overall readiness status.</Span></Span></P>
-			<P></P>
-			<P><Span class="span10"><Span class="span11">- Resource Prioritization: Focus on highly vulnerable areas such as Al Najm, Al Ayun, and Qaryat Al Wasl.</Span></Span></P>
+			<P><Span class="span10"><Span class="span11">- Emergency Response Overview: Teams are active at 16 locations, maintaining an 87% overall readiness status.</Span></Span></P>
 		</Text>
 		<WebContent url="https://raedaldweik.github.io/DMT_Chatbot/index.html" name="ve5572" label="Web content 2" selectionDisabled="true"/>
 		<Graph graphType="gauge" supplementalVisuals="ve6336" resultDefinitions="dd6334" name="ve4866" data="dd6332" label="Gauge - Drainage Capacity Index 1" applyDynamicBrushes="yes">
@@ -4828,9 +4829,9 @@
 			</Columns>
 		</Table>
 		<Text name="ve6781" label="Text 6" selectionDisabled="true" applyDynamicBrushes="no">
-			<P class="paragraph1"><Span class="span1">Impacted Roads</Span></P>
+			<P class="paragraph1"><Span class="span1">Model Validation</Span></P>
 			<P class="paragraph2"></P>
-			<P class="paragraph3"><Span class="span2"><Span class="span3">20</Span></Span></P>
+			<P class="paragraph3"><Span class="span2"><Span class="span3">95%</Span></Span></P>
 		</Text>
 		<Text name="ve6791" label="Text 7" selectionDisabled="true" applyDynamicBrushes="no">
 			<P class="paragraph1"><Span class="span1">Forecasted Alerts</Span></P>
