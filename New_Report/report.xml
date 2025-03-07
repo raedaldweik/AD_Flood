@@ -4679,12 +4679,12 @@
 
 		</Text>
 		<WebContent url="https://raedaldweik.github.io/DMT_Chatbot/index.html" name="ve5572" label="Web content 2" selectionDisabled="true"/>
-		<Graph graphType="gauge" supplementalVisuals="ve6336" resultDefinitions="dd6334" name="ve4866" data="dd6332" label="Gauge - Drainage Capacity Index 1" applyDynamicBrushes="yes">
+		<Graph graphType="gauge" supplementalVisuals="ve6336" resultDefinitions="dd6334" name="ve4866" data="dd6332" label="Gauge - Drainage Capacity Index(cm³) 1" applyDynamicBrushes="yes">
 			<EditorProperties>
 				<Property key="isAutoLabel">true</Property>
 				<Property key="customRangeInterval">true</Property>
 			</EditorProperties>
-			<Title auto="false"><P class="styleForTitle_paragraph3"><Span>Drainage Capacity Index</Span></P></Title>
+			<Title auto="false"><P class="styleForTitle_paragraph3"><Span>Drainage Capacity Index(cm³)</Span></P></Title>
 			<Conditions>
 				<Condition ref="rg6335" attrMap="RANGES"/>
 			</Conditions>
