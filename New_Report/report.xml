@@ -4657,15 +4657,26 @@
 			</EditorProperties>
 		</VisualContainer>
 		<Text name="ve5567" label="Text 5" selectionDisabled="true" applyDynamicBrushes="no">
-			<P format="h2"><Span class="span1">Emergency Response Deployment</Span><Span> </Span></P>
+			<P format="h1"><Span class="span1"><Span class="span2">Emergency Response Deployment</Span><Span> </Span></Span></P>
 			<P></P>
-			<P><Span class="span2"><Span class="span3">- Abu Dhabi Police: Managing traffic control and safety checkpoints near Al Haffar and Al Faya, led by Major Khalid Al Ameen.</Span></Span></P>
+			<P><Span class="span3"><Span class="span4">Emergency Response Overview:</Span></Span></P>
+			<P><Span class="span5">- Teams are active at 16 locations, maintaining an 87% overall readiness status.</Span></P>
 			<P></P>
-			<P><Span class="span6"><Span class="span7">- NCEMA: Overseeing overall flood response coordination and resource allocation for rapid intervention, led by Dr. Mansoor Al Ameri.</Span></Span></P>
+			<P><Span class="span6"><Span class="span7">Abu Dhabi Police</Span></Span></P>
+			<P><Span class="span8">- led by Major Khalid Al Ameen</Span></P>
+			<P><Span class="span9">- Deployed 4 mobile checkpoints to manage traffic and ensure safe evacuation routes</Span></P>
 			<P></P>
-			<P><Span class="span8"><Span class="span9">- Abu Dhabi Civil Defense: Conducting on-site rescue operations and water pumping initiatives to mitigate rising flood levels, led by Lt. Col. Omar Al Rashed.</Span></Span></P>
+			<P><Span class="span10"><Span class="span11">NCEMA</Span></Span></P>
+			<P><Span class="span12">- led by Dr. Mansoor Al Ameri</Span></P>
 			<P></P>
-			<P><Span class="span10"><Span class="span11">- Emergency Response Overview: Teams are active at 16 locations, maintaining an 87% overall readiness status.</Span></Span></P>
+			<P><Span class="span9"><Span class="span14">Abu Dhabi Civil Defense</Span></Span></P>
+			<P><Span class="span8">- led by Lt. Col. Omar Al Rashed</Span></P>
+			<P><Span class="span6">- Utilizing 8 high-capacity pumping trucks</Span></P>
+			<P></P>
+			<P><Span class="span9"><Span class="span18">Department of Municipalities and Transport</Span></Span></P>
+			<P><Span class="span19">- led by Eng. Sara Al Hosani</Span></P>
+			<P><Span class="span20">- Contracted 12 maintenance crews </Span></P>
+
 		</Text>
 		<WebContent url="https://raedaldweik.github.io/DMT_Chatbot/index.html" name="ve5572" label="Web content 2" selectionDisabled="true"/>
 		<Graph graphType="gauge" supplementalVisuals="ve6336" resultDefinitions="dd6334" name="ve4866" data="dd6332" label="Gauge - Drainage Capacity Index 1" applyDynamicBrushes="yes">
@@ -4829,7 +4840,7 @@
 			</Columns>
 		</Table>
 		<Text name="ve6781" label="Text 6" selectionDisabled="true" applyDynamicBrushes="no">
-			<P class="paragraph1"><Span class="span1">Model Validation</Span></P>
+			<P class="paragraph1"><Span class="span1">Model Accuracy</Span></P>
 			<P class="paragraph2"></P>
 			<P class="paragraph3"><Span class="span2"><Span class="span3">95%</Span></Span></P>
 		</Text>
